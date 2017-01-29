@@ -5,7 +5,7 @@
 ## Preview
 
 ![alt text](screenshots/sketch-finder.png "Sketch Finder v1.0")
-![alt text](screenshots/sketch-finder2.png "Sketch Finder v1.0")
+![alt text](screenshots/sketch-finder2.gif "Sketch Finder v1.0")
 
 ## How to use?
 
